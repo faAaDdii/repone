@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    background-color: black;
+}
+
+.text_bold_italic {
+
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text {
+    font-weight: 400;
+    font-style: oblique;
+    text-align: center;
+    color: blueviolet;
+    background-color: black;
+
+}
